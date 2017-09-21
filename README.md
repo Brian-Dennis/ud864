@@ -40,7 +40,7 @@ Make sure to delete this from the URL structure and replace it with your provide
 
 ## Author
 
-* **Brian Dennis** - *Initial work* - [PurpleBooth](https://github.com/Brian-Dennis)
+* **Brian Dennis** - *Initial work* - [Brian-Dennis](https://github.com/Brian-Dennis)
 
 ## Acknowledgments
 
